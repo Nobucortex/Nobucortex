@@ -1,13 +1,13 @@
-<!-- Nobucortex README - Dark Theme with Crimson & White Palette -->
+<!-- Nobucortex README - Light Theme with White Palette -->
 
 <div align="center">
 
 # 👨‍🔬 **Nobucortex**
 ### _Building Computational, Mathematical, and Scientific Libraries & Software_
 
-![Free](https://img.shields.io/badge/Free-Yes-DC143C?style=for-the-badge&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-DC143C?style=for-the-badge&logoColor=white)
-![Cross Platform](https://img.shields.io/badge/Cross%20Platform-Yes-DC143C?style=for-the-badge&logoColor=white)
+![Free](https://img.shields.io/badge/Free-Yes-FFFFFF?style=for-the-badge&logoColor=black)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-FFFFFF?style=for-the-badge&logoColor=black)
+![Cross Platform](https://img.shields.io/badge/Cross%20Platform-Yes-FFFFFF?style=for-the-badge&logoColor=black)
 
 </div>
 
@@ -35,21 +35,21 @@ We focus on **developing high-performance libraries and applications** for resea
 
 ## 📊 Infographic
 
-![Nobucortex's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobucortex&show_icons=true&bg_color=000000&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C)
+![Nobucortex's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobucortex&show_icons=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000)
 
-[![Nobucortex Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nobucortex&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&show_icons=true&bg_color=000000&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C)](https://github.com/nobucortex)
+[![Nobucortex Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nobucortex&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&show_icons=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000)](https://github.com/nobucortex)
 
 ### 📫 How to reach Nobucortex
 
 <div display="flex">
   <a href="https://www.linkedin.com/nobucortex/">
-    <img src="https://img.shields.io/badge/linkedin-%23DC143C.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-%23FFFFFF.svg?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
   <a href="mailto:nobucortex@outlook.com">
-    <img src="https://img.shields.io/badge/Email-%23DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-%23FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
   </a>
   <a href="https://instagram.com/nobucortex">
-    <img src="https://img.shields.io/badge/Instagram-%23DC143C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
   </a>
 </div>
 
@@ -66,8 +66,8 @@ We focus on **developing high-performance libraries and applications** for resea
 ---
 
 ## 🎨 Design & Theme
-- **Primary Colors:** Crimson (`#DC143C`) & White (`#FFFFFF`)  
-- **Theme:** Dark Mode UI & Docs  
+- **Primary Colors:** White (`#FFFFFF`) & Light Gray (`#F5F5F5`)  
+- **Theme:** Light Mode UI & Docs  
 
 ---
 
